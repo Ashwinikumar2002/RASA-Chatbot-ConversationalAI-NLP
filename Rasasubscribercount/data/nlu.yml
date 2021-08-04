@@ -1,0 +1,87 @@
+version: "2.0"
+
+nlu:
+- intent: number_of_subscriber
+  examples: |
+    - what is the number of subscriber of my channel on youtube?
+    - May i know what is my current subscriber count?
+    - how many subscriber do I have right now?
+
+- intent: thanks
+  examples: |
+    - thank you so much
+    - thanks
+    - thank you
+    - tnx
+
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - good morning
+    - good evening
+    - hey there
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you around
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - very good
+    - great
+    - amazing
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I'm good
+
+- intent: mood_unhappy
+  examples: |
+    - sad
+    - very sad
+    - unhappy
+    - bad
+    - very bad
+    - awful
+    - terrible
+    - not very good
+    - extremely sad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: what_name
+  examples: |
+    - What is your name?
+    - tell me your name
+    - what everyone calls you
+    - may i know your name please
+
