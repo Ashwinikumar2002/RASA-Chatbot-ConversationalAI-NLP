@@ -7,8 +7,3 @@ To make you aware about this amazing technology, I'm here with my new blog to el
 
 In this session I will show you how to build a voice bot using RASA that can used as an assistant for you whom you can ask anything and the bol will be able to answer you using web scraping.
 
-The example problem that I will elaborate in this session is of asking the bot about my active subscribers of my youtube channel. You can use this logic to find the active subscribers of any YouTube channel. This will be a very good start for you to learn web scraping with the voice bot based on Rasa.
-
-For mor details check this link :
-
-http://innovateyourself.in/build-a-voice-bot-to-ask-for-your-subscribers-count-rasa-web-scraping/
