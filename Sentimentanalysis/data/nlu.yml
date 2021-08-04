@@ -1,0 +1,11 @@
+version: "2.0"
+
+nlu:
+- intent: feedback
+  examples: |
+    - It’s very helpful
+    - I had the best experience speaking with you
+    - no feedback
+    - ok
+    - You are the most stupid bot I have ever seen
+    - the worst
