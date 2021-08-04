@@ -74,25 +74,3 @@ If you're interested in expanding what pokebot can do; we're all ears!
 
 ---  
 
-## About Rasa
-
-- **What does Rasa do? 🤔**
-  [Check out our Website](https://rasa.com/)
-
-- **I'm new to Rasa 😄**
-  [Get Started with Rasa](https://rasa.com/docs/getting-started/)
-
-- **I'd like to read the detailed docs 🤓**
-  [Read The Docs](https://rasa.com/docs/)
-
-- **I'm ready to install Rasa 🚀**
-  [Written Installation Guide](https://rasa.com/docs/rasa/user-guide/installation/) - [Video Guides](https://www.youtube.com/playlist?list=PL75e0qA87dlEWUA5ToqLLR026wIkk2evk)
-
-- **I want to learn how to use Rasa 🚀**
-  [Tutorial](https://rasa.com/docs/rasa/user-guide/rasa-tutorial/)
-
-- **I have a question ❓**
-  [Rasa Community Forum](https://forum.rasa.com/)
-
-- **Explore More Starter Kits ⌨️**
-  [Financial Demo](https://github.com/RasaHQ/financial-demo) [Medicare Locator Demo](https://github.com/RasaHQ/medicare_locator)
